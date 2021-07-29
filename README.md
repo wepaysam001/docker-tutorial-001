@@ -45,8 +45,6 @@ docker ps
 
 # debug 
 
-docker logs mycontainer001
-
 docker exec -it mycontainer001 /bin/sh
 
 # docker-tutorial-001
